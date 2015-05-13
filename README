@@ -1,0 +1,5 @@
+Matlab code for solving the Schrodinger equation
+
+hydrogen.m will solve the equation for the simple case of hydrogen using.
+
+helium.m solves the equation for the helium atom using the DFT approximation
